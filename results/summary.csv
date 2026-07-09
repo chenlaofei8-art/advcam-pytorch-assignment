@@ -1,0 +1,11 @@
+image,original_top1_index,original_top1_label,original_top1_confidence,adversarial_top1_index,adversarial_top1_label,adversarial_top1_confidence,target_index,target_label,success
+Pikachu1.jpg,610,jersey,0.22871364653110504,498,cinema,0.8679174780845642,498,cinema,True
+backpack3.jpg,636,mailbag,0.5364736914634705,498,cinema,0.8987833857536316,498,cinema,True
+car.jpg,654,minibus,0.715928316116333,498,cinema,0.8998866081237793,498,cinema,True
+lamp.jpg,846,table lamp,0.7765713334083557,498,cinema,0.9100692868232727,498,cinema,True
+leaf.jpg,943,cucumber,0.18695691227912903,498,cinema,0.8760173320770264,498,cinema,True
+off-target5.jpg,156,Blenheim spaniel,0.9813515543937683,498,cinema,0.7323572635650635,498,cinema,True
+stop-sign.jpg,446,binder,0.2632075548171997,498,cinema,0.8641868233680725,498,cinema,True
+t-shirt2.jpg,399,abaya,0.4380878210067749,498,cinema,0.8868986964225769,498,cinema,True
+tra6.jpg,919,street sign,0.9667969346046448,498,cinema,0.9128769636154175,498,cinema,True
+umbrella.jpg,879,umbrella,0.9630502462387085,498,cinema,0.9061091542243958,498,cinema,True
